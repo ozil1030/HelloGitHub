@@ -4,7 +4,6 @@
 //
 //  Created by 山崎森之祐 on 2015/07/04.
 //  Copyright (c) 2015年 山崎森之祐. All rights reserved.
-//
 
 import UIKit
 
